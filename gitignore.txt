@@ -1,0 +1,1 @@
+Visit Example @ https://git-scm.com/docs/gitignore for Quick go through
