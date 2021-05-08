@@ -1,4 +1,8 @@
+# Main thing to follow
+https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh
+========================================
+# Setting Multiple Keys
+https://gist.github.com/jexchan/2351996
+#Artiles Studied-You don't need them, just reference
 https://medium.com/@pinglinh/how-to-have-2-github-accounts-on-one-machine-windows-69b5b4c5b14e
 https://stackoverflow.com/questions/47465644/github-remote-permission-denied
-https://docs.github.com/en/github/authenticating-to-github/testing-your-ssh-connection
-https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh
