@@ -1,0 +1,6 @@
+When you are cloning the repository (named demo) from the company's GitHub account, the repository URL will be something like:
+
+Repo URL: git@github.com:abc1234/demo.git
+Now, while doing git clone, you should modify the above repository URL as:
+
+git@company:abc1234/demo.git
