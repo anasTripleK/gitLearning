@@ -1,5 +1,6 @@
 # Main thing to follow
 https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh
+https://www.youtube.com/watch?v=N2hMGEeYR7c
 ========================================
 # Setting Multiple Keys
 https://gist.github.com/jexchan/2351996
