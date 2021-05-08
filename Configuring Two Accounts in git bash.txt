@@ -1,6 +1,10 @@
 # Main thing to follow
 https://docs.github.com/en/github/authenticating-to-github/connecting-to-github-with-ssh
 https://stackoverflow.com/questions/2419566/best-way-to-use-multiple-ssh-private-keys-on-one-client/3828682#3828682
+http://sshkeychain.sourceforge.net/mirrors/SSH-with-Keys-HOWTO/SSH-with-Keys-HOWTO-6.html#ss6.1
+=>ssh-agent bash
+=>ssh-add /location/of/key
+One key is working in default
 https://www.youtube.com/watch?v=N2hMGEeYR7c
 ========================================
 # Setting Multiple Keys
