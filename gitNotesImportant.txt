@@ -12,3 +12,4 @@ git config --global --list
 if(different_than_expected)
 git config --global user.name "userName"
 git config --global user.email "email"
+ssh-add ~/.ssh/id_ed25519_TripleK
