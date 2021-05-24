@@ -4,3 +4,11 @@ Repo URL: git@github.com:abc1234/demo.git
 Now, while doing git clone, you should modify the above repository URL as:
 
 git@company:abc1234/demo.git
+=== CLONING PROBLEMS ABOVE ===
+
+=== GITHUB ACCOUNT CONFIGURATION PROBLEMS RESOLVED BELOW ===
+Check the default UserName and Email configured for your Repo by:
+git config --global --list
+if(different_than_expected)
+git config --global user.name "userName"
+git config --global user.email "email"
