@@ -9,7 +9,13 @@ git@company:abc1234/demo.git
 === GITHUB ACCOUNT CONFIGURATION PROBLEMS RESOLVED BELOW ===
 Check the default UserName and Email configured for your Repo by:
 git config --global --list
+=== If Different ===
 if(different_than_expected)
 git config --global user.name "userName"
 git config --global user.email "email"
+=== for SSH configuration using Git Bash ===
+ssh-agent bash
+
 ssh-add ~/.ssh/id_ed25519_TripleK
+or
+ssh-add ~/.ssh/id_ed25519
